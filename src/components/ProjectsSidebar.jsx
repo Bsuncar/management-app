@@ -1,4 +1,4 @@
-// Sidebar component in which the content for the users contents are going to be shown.
+// Sidebar component in which the content for the users is going to be shown.
 
 export default function ProjectsSidebar() {
   return (
